@@ -1,0 +1,19 @@
+.odd-num {
+    background-color: rgb(255, 160, 160);
+    color: rgb(rgb(0, 0, 0));
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.big-boi {
+    font-size: 24px;
+}
+
+#even-num-one {
+    color: rgb(34, 34, 255);
+    font-size: 36px;
+}
+
+#even-num-two {
+    background-color: rgb(110, 255, 110);
+    font-weight: bold;
+}
