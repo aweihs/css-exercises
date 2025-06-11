@@ -1,0 +1,18 @@
+.odd-number {
+    background-color: rgb(255, 177, 177);
+}
+
+.enlarge {
+    font-size: 24px;
+}
+
+#bullet-two {
+    color: blue;
+    font-size: 36px;
+}
+
+#bullet-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
